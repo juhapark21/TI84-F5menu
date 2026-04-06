@@ -2,8 +2,12 @@
 A custom menu for the unused F5 key on the TI-84 Plus CE. 
 
 # Installation 
-** Only install if you are willing to use ArTIfiCE! ** 
+**Only install if you are willing to use ArTIfiCE!**
+
 I have a demo video for those who don't want to do the song and dance of installing it onto their calculator: 
+<p align="center" width="100%">
+<video src="https://github.com/user-attachments/assets/d2f8a3d6-6e50-4c29-a598-2f7e2a65bde4" width="80%" controls></video>
+</p>
 
 ## Install requirements 
 - F5MENU.8xp
@@ -26,8 +30,11 @@ I have a demo video for those who don't want to do the song and dance of install
 9. [prgm] -> [1] -> (* F5MENU) to uninstall hook. 
 (every time the program runs from the [prgm] menu the hook will either install or uninstall itself.) 
 
-# Full uninstall instructions (including removal of dependencies) 
-You can remove all relevant files (ArTIfiCE.8xv, ASMHOOK.8xp, F5MENU.8xp) through the TI Connect CE app if you don't want to reset all memory. 
+# Full uninstall (including removal of dependencies) 
+You can remove all relevant files (ArTIfiCE.8xv, ASMHOOK.8xp, F5MENU.8xp) through the TI Connect CE app if you don't want to reset all memory.
+
 *Please make sure to uninstall the hook through running the program before you delete the program files.*
+
 Reset RAM ([2nd] -> [+] -> [7] -> [1] -> [2]).
+
 There are no other steps needed to uninstall. 
